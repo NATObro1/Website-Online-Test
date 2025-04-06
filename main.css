@@ -1,0 +1,70 @@
+body {
+    font-family: "JetBrains Mono";
+    background-color: #192841;
+}
+
+.topnav {
+    background-color: #1c2e4a;
+    overflow: hidden;
+}
+
+.topnav a {
+    margin: 14px 16px;
+    float: right;
+    text-align: center;
+    font-size: 17px;
+    text-decoration: none;
+    color: #8aabca;
+}
+
+.topnav a:hover {
+    background-color: #8aabca;
+    color: white;
+}
+
+.profilo {
+    padding: 100px 150px;
+    align-items: center;
+    background-color: #18263f;
+    height: 275px;
+}
+
+.profilo h1 {
+    font-size: 45px;
+    font-family: "Boldonse";
+}
+
+.name {
+    color: #ecd0ff;
+}
+
+.what {
+    color: 	#dbb0f6;
+}
+
+h5 {
+    color: #8aabca;
+}
+
+p {
+    color: 	#dbb0f6;
+}
+
+button {
+    border-radius: 10px;
+    border: 6px solid #94aec7;
+    margin: auto;
+    padding: 20px;
+    width: 250px;
+    background-color: transparent;
+    color: #8aabca;
+    font-family: "JetBrains Mono";
+    position: relative;
+    transition: 0.3 ease-in-out;
+}
+
+button:hover {
+    color: white;
+    background-color: #8aabca;
+}
+
